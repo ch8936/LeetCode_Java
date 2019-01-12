@@ -11,3 +11,5 @@
 00.[单例模式](https://blog.csdn.net/duoduo18up/article/details/79738878 "offer00-Singleton.java")
 
 01.[二维数组中的查找](https://www.weiweiblog.cn/find2array/ "find2array.java")
+
+02.[替换空格](https://www.weiweiblog.cn/replacespace/ "replaceSpace.java")
