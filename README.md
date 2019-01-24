@@ -13,3 +13,5 @@
 01.[二维数组中的查找](https://www.weiweiblog.cn/find2array/ "find2array.java")
 
 02.[替换空格](https://www.weiweiblog.cn/replacespace/ "replaceSpace.java")
+
+03.[从头到尾打印链表](https://www.weiweiblog.cn/printlistfromtailtohead/ "printListFromTail2Head.java")
